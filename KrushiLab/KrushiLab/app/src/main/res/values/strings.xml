@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Unclog the City</string>
+    <string name="toilet_activity">TOILET</string>
+    <string name="garbage_text">GARBAGE</string>
+    <string name="Submit_complaint">  Submit Complaint</string>
+    <string name="complaint_text">     Write Your Complaint Here...</string>
+    <string name="toilet_maps_text">Toilets Near Me</string>
+    <string name="content_submitted">Submitted Successfully</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="submit">SUBMIT</string>
+    <string name="title_activity_sub1">Sub1</string>
+
+</resources>
